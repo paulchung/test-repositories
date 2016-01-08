@@ -1,5 +1,5 @@
 {
-    "name": "test/a-b-repositories",
+    "name": "test/test-b-repositories",
     "autoload": {
         "files": [
             "bootstrap/include_paths.php"
