@@ -1,8 +1,5 @@
 {
-    "name": "test/repositories",
-    "require": {
-        "php": ">=5.5.9"
-    },
+    "name": "test/a-b-repositories",
     "autoload": {
         "files": [
             "bootstrap/include_paths.php"
