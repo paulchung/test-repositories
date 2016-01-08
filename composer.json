@@ -3,6 +3,15 @@
     "require": {
         "php": ">=5.5.9"
     },
+    "autoload": {
+        "files": [
+            "billing_config.php",
+            "member_config.php"
+        ],
+        "psr-4": {
+            "KK\\Billing\\": "src/"
+        }
+    },
     "require-dev": {
         "phpunit/phpunit": "~4.0"
     }
