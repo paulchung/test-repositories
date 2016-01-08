@@ -5,8 +5,7 @@
     },
     "autoload": {
         "files": [
-            "billing_config.php",
-            "member_config.php"
+            "bootstarp/include_paths.php"
         ],
         "psr-4": {
             "KK\\Billing\\": "src/"
